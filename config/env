@@ -1,0 +1,5 @@
+PORT = 2121
+DB_STRING = mongodb+srv://serveradmin:%27SqjcNK4G%3FZLb%5E%2BHjl%2F4M%21Ci@cluster0.swk750s.mongodb.net/?retryWrites=true&w=majority
+CLOUD_NAME = dau3rjc3j 
+API_KEY = 645486654632265
+API_SECRET = mEWR10dmgSoVjMOka7qX_dx6VLA
